@@ -2,7 +2,7 @@
 
 **Building AI systems that automate revenue the way cloud computing automated infrastructure.**
 
-I'm the founder and CTO of [Aonxi](https://www.aonxi.app) — we built what I call Cursor for Revenue & Capital. Instead of hiring SDR teams or stitching together disconnected tools, companies provision revenue pipeline the way they provision cloud compute: on demand, modular, measurable, and outcome-based. We hit $2M ARR run-rate velocity in the first 60 days. Bootstrapped. Organic traction. No ads.
+I'm the founder and CTO of [Aonxi](https://www.aonxi.today) — we built what I call Cursor for Revenue & Capital. Instead of hiring SDR teams or stitching together disconnected tools, companies provision revenue pipeline the way they provision cloud compute: on demand, modular, measurable, and outcome-based. We hit $2M ARR run-rate velocity in the first 60 days. Bootstrapped. Organic traction. No ads.
 
 ---
 
@@ -84,10 +84,10 @@ If you're building something at the intersection of AI infrastructure, agentic s
 
 ## Reach me
 
-**Email** — sam@aonxi.app  
-**Product** — [aonxi.app](https://www.aonxi.app)  
+**Email** — origin@aonxi.com  
+**Product** — [aonxi.today](https://www.aonxi.today)  
 **Twitter/X** — [@originaonxi](https://x.com/originaonxi)  
-**LinkedIn** — [add your LinkedIn URL]
+**LinkedIn** — [https://www.linkedin.com/in/samisanmol/]
 
 ---
 
