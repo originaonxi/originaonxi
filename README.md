@@ -94,7 +94,6 @@ If you're building something at the intersection of AI infrastructure, agentic s
 
 **Email** — origin@aonxi.com  
 **Product** — [aonxi.today](https://www.aonxi.today)  
-**Twitter/X** — [@originaonxi](https://x.com/originaonxi)  
 **LinkedIn** — [https://www.linkedin.com/in/samisanmol/]
 
 ---
