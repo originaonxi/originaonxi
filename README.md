@@ -74,9 +74,17 @@ Frontend        Next.js · React · WebSockets (human-in-the-loop cockpit)
 
 ---
 
-## What I want to work on next
+## What I am building toward
 
-I want to apply what I've learned building production AI systems at revenue scale to the hardest problems in AI — safety, alignment, agentic reasoning, and AI infrastructure for the people who need it most. I'm looking to work with teams at **Anthropic**, **OpenAI**, or **xAI** who are thinking at that scale.
+Production AI systems taught me that the bottleneck is not
+model intelligence — it is agent systems engineering:
+reliable harnesses, honest evals, and external state that
+survives context windows.
+
+I am publishing the research as I build it.
+If you are working on agent reliability, long-horizon evals,
+or AI infrastructure at frontier scale — reach me at
+origin@aonxi.com
 
 If you're building something at the intersection of AI infrastructure, agentic systems, or AI that reaches people who currently have no access to it — I want to talk.
 
