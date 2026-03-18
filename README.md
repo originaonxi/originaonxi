@@ -34,7 +34,7 @@ Frontend        Next.js · React · WebSockets (human-in-the-loop cockpit)
 
 ## What I think about
 
-**Data quality as a moat.** The models have their labs. The chips have their fabs. Data has been treated as an afterthought — raw, noisy, unstructured. The next era of AI progress depends on methodological rigor around data. Better data beats better algorithms, every time.
+**Data quality as a moat.** The models have their labs. The chips have their fabs. Data has been treated as an afterthought - raw, noisy, unstructured. The next era of AI progress depends on methodological rigor around data. Better data beats better algorithms, every time.
 
 **Agentic systems that close the loop.** Not AI that suggests — AI that executes. Identifies the right decision-maker, sends the right message at the right moment, routes the exception to a human, tracks whether it converted. The whole loop, automated, auditable.
 
@@ -77,16 +77,16 @@ Frontend        Next.js · React · WebSockets (human-in-the-loop cockpit)
 ## What I am building toward
 
 Production AI systems taught me that the bottleneck is not
-model intelligence — it is agent systems engineering:
+model intelligence - it is agent systems engineering:
 reliable harnesses, honest evals, and external state that
 survives context windows.
 
 I am publishing the research as I build it.
 If you are working on agent reliability, long-horizon evals,
-or AI infrastructure at frontier scale — reach me at
+or AI infrastructure at frontier scale - reach me at
 origin@aonxi.com
 
-If you're building something at the intersection of AI infrastructure, agentic systems, or AI that reaches people who currently have no access to it — I want to talk.
+If you're building something at the intersection of AI infrastructure, agentic systems, or AI that reaches people who currently have no access to it - I want to talk.
 
 ---
 
