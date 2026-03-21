@@ -485,5 +485,5 @@ I can see where this goes and I can build the path to get there.
 I have the production system, the research program,
 the engineering depth, and the evidence.
 
-origin@aonxi.com · aonxi.today
+origin@aonxi.com · aonxi.com
 Santa Monica, CA · Shipping every day since age 10
