@@ -1,186 +1,285 @@
-# Sam Anmol
+# Sam Anmol (Anmol Chaudhary)
 
-**CTO @ Aonxi · Santa Monica, CA**
-Ex-Meta Ads ML (billions of decisions/day) · Ex-Apple Face ID (500M devices)
-origin@aonxi.com · aonxi.today · [linkedin.com/in/samisanmol](https://linkedin.com/in/samisanmol)
-
----
-
-> I am building the world's first AGI agent for revenue and capital.
->
-> Not a chatbot. Not a copilot. An autonomous system that researches,
-> decides, acts, learns, and compounds — the way a senior operator
-> would, but at infinite scale and zero marginal cost.
->
-> The lab is not a university. It is a live production system
-> generating $650K ARR. Every experiment runs on real money,
-> real prospects, real outcomes. That is the only eval that matters.
+**ML + AI Agent Engineer · Ex-Meta Ads ML · Ex-Apple Face ID · CTO @ Aonxi**
+Santa Monica, CA · origin@aonxi.com · aonxi.today · [linkedin.com/in/samisanmol](https://linkedin.com/in/samisanmol)
 
 ---
 
-## What I am building
+| 12M+ | 10 yrs | $650K ARR | 800% |
+|------|--------|-----------|------|
+| Lines in production | F500 daily shipping | Aonxi in 5 months | ARR growth (2023) |
 
-### Aonxi — Autonomous Revenue Agent
+---
 
-Most revenue tools are databases pretending to be engines.
-Aonxi is a living revenue engine.
+> **AGI agents are not chatbots. They are not copilots.**
+>
+> They are revenue-making, P&L-responsible autonomous systems
+> that compound value the way a senior operator would —
+> but at infinite scale and zero marginal cost.
+>
+> Imagine giving your agent an unlimited corporate credit card.
+> It can buy any API, spin up GPUs, run experiments, hire compute.
+> But it must bring qualified meetings, pipeline, and closed-won revenue.
+> Every dollar it spends must return more dollars than it cost.
+>
+> That is not a demo. That agent exists. It is running right now.
+> It generated $650K ARR in 5 months. Bootstrapped. Zero paid acquisition.
+>
+> I am the person who built it.
+> And I am just getting started.
 
-The agent wakes up every morning, finds the right companies,
-researches each one using 30+ data sources, writes a
-hyper-personalized email proving it did the research,
-scores intent using dual-LLM judgment, and sends.
-You review. You approve. Meetings land on your calendar.
-You pay per meeting. No SDR. No guessing. No waste.
+---
 
-**Production numbers — real, not projected:**
+## The vision I am executing
 
-| Month    | Leads | Meetings | Sales | ARR      | Meet→Sale | Lead→Sale |
-|----------|-------|----------|-------|----------|-----------|-----------|
-| Oct 2025 | 360   | 42       | 5     | $314,472 | 11.9%     | 1.39%     |
-| Nov 2025 | 647   | 51       | 4     | $361,092 | 7.8%      | 0.62%     |
-| Dec 2025 | 138   | 27       | 9     | $491,592 | 33.3%     | 6.52%     |
-| Jan 2026 | 288   | 26       | 4     | $386,592 | 15.4%     | 1.39%     |
-| Feb 2026 | 408   | 42       | 8     | $484,508 | 19.9%     | 2.02%     |
-| Mar 2026 | 611   | 62       | 12    | $650,458 | 19.9%     | 2.02%     |
+Most people talk about AGI in the abstract.
+I am building it in the concrete — one bounded domain at a time.
 
-**$650K ARR. 5 months. $0 raised. Bootstrapped. Organic.**
+The domain I chose is revenue and capital.
+Not because it is easy. Because it has the clearest eval in existence:
 
-The December anomaly is the most important data point:
-138 leads produced 9 sales (33.3% meet→sale).
-November had 647 leads and only 4 sales (7.8%).
-**10.5x efficiency difference. Same agent. Same verticals.**
-The agent had no memory of why December worked.
-That single observation became a research program.
+**Did the meeting happen? Did the deal close? Did money land in the bank?**
+
+No ambiguity. No benchmark gaming. No cherry-picked demos.
+The production system is the laboratory.
+**The ARR is the p-value.**
+
+---
+
+### The full roadmap — already in motion at Aonxi
+
+**Stage 1 (Live now): Lead outreach and discovery**
+The agent wakes up every morning.
+It searches 30+ data sources for companies matching the ICP.
+It researches each one — funding news, hiring signals, product launches,
+founder posts, acquisition events.
+It writes a hyper-personalized email proving it did the research.
+It scores intent using dual-LLM judgment (Claude + Grok, weighted average).
+Human reviews. Human approves. Email sends.
+Meetings land on the calendar.
+
+**Stage 2 (Building now): Intelligent follow-up and sequencing**
+Three-touch sequences. Fresh signals on each follow-up.
+Reply detection via IMAP. Auto-routing of warm responses.
+The agent learns which angles convert by vertical, size, signal combination.
+Every outcome becomes an anchor in the memory bank.
+
+**Stage 3 (Next): Shadow sales and learning**
+The agent observes real sales calls.
+It extracts objections, winning tactics, buyer psychology, pricing signals.
+It builds a model of what closes — not from theory, from real conversations.
+It feeds this back into outreach to close the loop between lead and close.
+
+**Stage 4 (Coming): Sales assistance and co-piloting**
+The agent co-pilots sales reps in real time.
+Surfaces the right objection handler at the right moment.
+Drafts follow-up emails while the call is still happening.
+Escalates only when the deal size or complexity demands human judgment.
+
+**Stage 5 (The destination): Full autonomy**
+First touch to contract signed to money in the bank.
+The agent runs the entire revenue funnel.
+It spends more where results compound. Kills what does not work.
+Requests human input only when it creates leverage.
+Every decision is logged, attributed, and auditable.
+
+This is AGI for a bounded domain.
+I am building it step by step, in production, with real money on the line.
+
+---
+
+## What makes this possible
+
+I am not a researcher who builds demos.
+I am not a founder who hires engineers.
+I am both — and I can connect everything to everything.
+
+At Meta I shipped ranking and bidding models at billions of daily inferences.
+At Apple I reduced Face ID false positives by 15% and published the GAN refiner
+that made synthetic training viable (machinelearning.apple.com/research/gan).
+At Lotus Interworks I took ARR from $25K to $811K in 12 months (800% growth),
+cut the sales cycle from weeks to under 5 days, and lifted close rate from 10% to 34%.
+At Aonxi I built the agent from scratch. Alone. $0 raised. $650K ARR in 5 months.
+
+The combination nobody else runs at scale:
+**Deep ML research + agent systems engineering + production revenue data**
+
+I replicate frontier papers the week they drop.
+I deploy the architecture into the live system.
+I measure whether the theory holds when money is on the line.
+If it does not, I fix it or throw it out.
+
+This is not how most researchers work.
+This is not how most engineers work.
+This is how you build AGI that actually does something.
+
+---
+
+## The guardrails that make it safe
+
+An agent with an unlimited credit card and no constraints is not AGI.
+It is a liability.
+
+The architecture I engineered to keep it safe, auditable, and production-grade:
+
+**Multi-agent swarms with 4-layer quality gates**
+No single agent makes a final decision.
+Every action passes through intent verification, confidence scoring,
+compliance checking, and human escalation logic before execution.
+
+**Human-in-the-loop (HITL) nodes everywhere**
+Y/N vetoes. Approval gates. Override controls. Rich feedback loops.
+Every human decision becomes a training signal.
+Low-confidence cases escalate to humans automatically.
+Human labels feed continuous iteration.
+This is RLHF running live in production, every day.
+
+**Uncertainty-based routing**
+When the agent is not sure, it asks.
+When it is sure and wrong, it learns.
+The confidence threshold for autonomous action rises
+only when production eval data supports it.
+
+**Economic ledger with hard gates**
+Every execution logs cost per task, variance, and outcome delta.
+Scaling is gated on probabilistic ROI — not task success percentage.
+No logs, no scale. No proven ROI, no autonomy increase.
+
+**Kill switches at every layer**
+Agents are stateless and short-lived.
+They can be terminated mid-task without corruption.
+The orchestrator owns workflow state — not the agents.
+This means I can pull the plug on anything, instantly, at any layer.
+
+Winners auto-replicate and compound.
+Losers terminate with zero drama.
+**Better data beats better algorithms.** I have lived this truth at Meta scale.
 
 ---
 
 ## The research program
 
-I do not separate research from production.
-Every paper I replicate gets deployed into a live system
-and tested against real outcomes. This is the laboratory.
-
-### Why these papers matter for AGI
-
-The path to AGI is not bigger models.
-It is agents that can operate reliably over long horizons —
-planning across steps, remembering what mattered,
-recovering from failure, and improving without human input.
-
-Every paper below attacks one part of that problem.
-Every replication I build tests whether the theory
-holds when money is on the line.
+Every paper I read gets deployed.
+Every architecture I replicate gets tested on production revenue data.
+Here is what I am working from and why each one matters for AGI:
 
 ---
 
-### Paper 1 — ASM-Outreach
-**Anchored State Memory for Multi-Session Autonomous Revenue Agents**
-*Domain transfer of AndroTMem (arxiv:2603.18429, March 2026)*
-**Target: NeurIPS 2026**
+### ASM-Outreach — Active replication → NeurIPS 2026
+**AndroTMem (arxiv:2603.18429, March 2026)**
 
-**Why it matters for AGI:**
-Long-horizon agents fail primarily because of memory failures,
-not intelligence failures. AndroTMem proved this on 1,069
-Android GUI tasks: as step count grows, agents forget
-causally important intermediate states. They repeat mistakes.
-They lose track of dependencies. They think they are making
-progress when they are not.
+**The problem it solves:**
+Long-horizon agents fail primarily because of memory failures.
+Not intelligence. Memory.
+As step count grows, agents forget causally important intermediate states.
+They repeat November's mistakes in January.
+They cannot learn from December's success.
 
-This is not a GUI problem. It is a fundamental agent problem.
-An AGI that forgets why something worked cannot improve.
+**The December anomaly — real production data:**
+
+| Month | Leads | Meetings | Sales | ARR | Meet→Sale | Lead→Sale |
+|-------|-------|----------|-------|-----|-----------|-----------|
+| Nov 2025 | 647 | 51 | 4 | $361K | 7.8% | 0.62% |
+| Dec 2025 | 138 | 27 | 9 | $492K | 33.3% | 6.52% |
+
+Same agent. Same verticals. 10.5x efficiency difference.
+The agent had no idea why December worked.
+That observation became this research program.
 
 **My contribution over the paper:**
 The original handles single-session tasks (max 65 steps).
-I handle multi-session campaigns (6 months, 2,452 leads).
+I handle multi-session campaigns (6 months, 2,452 leads, 42 sales).
 First production validation of ASM on real financial outcomes.
 
 **Real experiment results:**
 
-| Condition       | Avg Score | Beats Raw | Calibration Gap |
-|-----------------|-----------|-----------|-----------------|
-| Raw (no memory) | 6.67/10   | —         | 1.33            |
-| Coarse summary  | 7.17/10   | —         | —               |
-| ASM (ours)      | 7.67/10   | 83%       | 1.67 ✓          |
+| Condition | Avg Score | Beats Raw | Calibration Gap |
+|-----------|-----------|-----------|-----------------|
+| Raw — no memory | 6.67/10 | — | 1.33 |
+| Coarse summary | 7.17/10 | — | — |
+| ASM — structured anchors | 7.67/10 | 83% | 1.67 ✓ |
 
 ASM beats raw scoring on 83% of prospects.
-The December "quality over quantity" insight now lives
-as a causal anchor. The agent retrieves it every time
-it scores a similar prospect. It will never repeat
-November again.
+The December "quality over quantity" insight lives as a causal anchor.
+The agent retrieves it when scoring similar prospects.
+It will never repeat November again.
 
 → [github.com/originaonxi/asm-replication](https://github.com/originaonxi/asm-replication)
 
 ---
 
-### Paper 2 — TDAD Replication
-**Trajectory-Driven Agent Design**
-*Replication + extension*
-
+### PRM Replication — Process Reward Models
 **Why it matters for AGI:**
-Trajectory data is the ground truth of agent behavior.
-Not what the agent said it would do — what it actually did,
-step by step, under real conditions.
-TDAD formalizes how to design agents whose trajectories
-remain coherent across long horizons.
-For AGI: coherent trajectories are how you verify
-an agent is actually reasoning, not pattern-matching.
-
-→ [github.com/originaonxi/tdad-replication](https://github.com/originaonxi/tdad-replication)
-
----
-
-### Paper 3 — PRM Replication
-**Process Reward Models**
-*Replication + extension*
-
-**Why it matters for AGI:**
-Outcome reward is not enough. An agent that only learns
-from final results cannot improve the quality of its
-reasoning process. PRM rewards intermediate steps —
-it teaches the agent to think well, not just to get lucky.
-For AGI: you cannot scale intelligence without
-rewarding the quality of the reasoning chain itself.
+Outcome reward is not enough.
+An agent that only learns from final results cannot improve
+the quality of its reasoning process.
+PRM rewards intermediate steps — it teaches the agent
+to think well, not just to get lucky.
+For the revenue agent: did the scoring decision at step 3
+contribute to the meeting at step 47?
+That attribution chain is what PRM formalizes.
 
 → [github.com/originaonxi/prm-replication](https://github.com/originaonxi/prm-replication)
 
 ---
 
-### Paper 4 — RewardFlow Replication
-**Multi-step reward propagation in agentic pipelines**
-*Replication + extension*
-
+### RewardFlow Replication — Multi-step reward propagation
 **Why it matters for AGI:**
 Single-step reward is local. RewardFlow propagates
 reward signals across the full action chain —
 crediting or penalizing decisions that caused
 outcomes several steps later.
-For AGI: an agent that cannot attribute causality
-across time cannot learn from complex outcomes.
 Revenue attribution IS RewardFlow in the wild.
+Every email sent, every follow-up skipped, every
+angle chosen — each one contributed to whether
+the meeting happened. RewardFlow is how you learn
+which contribution mattered most.
 
 → [github.com/originaonxi/rewardflow-replication](https://github.com/originaonxi/rewardflow-replication)
 
 ---
 
-### Paper 5 — Information Architecture Thesis
-**Long-horizon agent state management**
+### TDAD Replication — Trajectory-Driven Agent Design
+**Why it matters for AGI:**
+Trajectory data is the ground truth of agent behavior.
+Not what the agent said it would do — what it actually did,
+step by step, under real conditions.
+For the revenue agent: the full trajectory from
+"Apollo returned this company" to "meeting booked"
+is the dataset. TDAD is the framework for learning from it.
 
+→ [github.com/originaonxi/tdad-replication](https://github.com/originaonxi/tdad-replication)
+
+---
+
+### Information Architecture Thesis — Long-horizon state management
 **Why it matters for AGI:**
 State is the unsolved problem of production agents.
-What information do you keep? What do you compress?
-What do you discard? How do you structure it so
-retrieval is fast, relevant, and causally grounded?
-This thesis formalizes the information architecture
-decisions that determine whether an agent stays
-coherent over thousands of steps.
+What do you keep? What do you compress? What do you discard?
+How do you structure it so retrieval is fast, relevant,
+and causally grounded when the context window runs out?
+This thesis formalizes those decisions for agents
+operating over thousands of steps and months of campaigns.
 
 → [github.com/originaonxi/information-architecture-thesis](https://github.com/originaonxi/information-architecture-thesis)
 
 ---
 
-## The AGI thesis
+### MoE Efficiency Study — Latest published paper
+**Routing Strategy and Load Balancing in Small-Scale MoE Transformers**
 
-I think about AGI every day. Here is what I actually believe:
+Controlled comparison of top-k, expert choice, and noisy top-k routing.
+Original expert specialization score metric.
+Key finding: Top-2 routing + light auxiliary loss delivers
+20% perplexity improvement and prevents collapse.
+Directly applicable to multi-agent swarms where
+routing decisions determine which persona model handles which prospect.
+
+→ [github.com/originaonxi/moe-efficiency-study](https://github.com/originaonxi/moe-efficiency-study)
+
+---
+
+## The AGI thesis — what I actually believe
 
 **The bottleneck is not intelligence. It is reliability.**
 
@@ -188,77 +287,74 @@ GPT-4 can reason. Claude can reason. Gemini can reason.
 None of them can operate a live business autonomously
 for 6 months without accumulating failures that compound.
 
-The path to AGI runs through:
+The five components you need to build AGI that actually does something:
 
-**1. Memory that survives sessions**
+Memory that survives sessions (ASM)
 Not context windows. Structured causal anchors.
 What happened, what caused it, what it means for next time.
-ASM is the first architecture that formalizes this.
-I am validating it in production.
+Reward that propagates through time (PRM + RewardFlow)
+Not "did this email get a reply" but
+"did this decision pattern produce meetings
+across 6 months of campaigns."
+Trajectories that stay coherent (TDAD)
+An AGI that drifts after 100 steps is not AGI.
+It is a very expensive random walk.
+Human-in-the-loop as a learning signal (HAGI)
+Not a safety patch. A continuous preference signal.
+Every Y/N approval is a labeled training example.
+That is RLHF running live in production, every day.
+Production data as ground truth (Aonxi $650K ARR)
+Benchmarks can be gamed.
+Revenue cannot.
+2,452 leads. 250 meetings. 42 sales. Real money.
+That is the eval.
 
-**2. Reward that propagates through time**
-Not "did this email get a reply" but "did this decision
-pattern produce meetings across 6 months of campaigns."
-PRM + RewardFlow are the theoretical foundation.
-My production data is the experimental ground truth.
 
-**3. Trajectories that stay coherent**
-An AGI that drifts off its intended path after
-100 steps is not AGI — it is a very expensive random walk.
-TDAD gives us the framework to measure and enforce coherence.
-I measure it every day with real campaign data.
-
-**4. Human-in-the-loop as a feature, not a patch**
-The HAGI (Human-AGI Interface) architecture I built into
-Aonxi is not a safety hack. It is a learning signal.
-Every time a human approves or rejects an agent decision,
-the agent gets a real-world preference signal.
-That is RLHF running live in production, continuously.
-
-**The world's first AGI agent for revenue and capital**
-is not science fiction. It is the logical endpoint of
-exactly what I am building right now:
-Memory (ASM) +
-Process Reward (PRM) +
-Causal Attribution (RewardFlow) +
-Coherent Trajectories (TDAD) +
-Human Feedback (HAGI loop) +
-Production data (Aonxi $650K ARR)
-= An agent that improves itself continuously,
+Put these five together and you get:
+**An agent that improves itself continuously,
 operates reliably over months,
 attributes outcomes to decisions,
 and gets better every single day
-without human intervention.
+without human intervention.**
 
 That is AGI for a bounded domain.
-Revenue and capital is the domain I chose
-because it has the clearest eval:
-did the meeting happen? did the deal close?
-No ambiguity. No cheating the metric.
+I chose revenue because the eval is unambiguous.
+I am building it in production because that is the only
+environment where the theory gets tested honestly.
+
+I operate at the intersection where nobody else stands:
+Visionary enough to see the destination.
+Technical enough to build the path.
+Obsessive enough to ship it daily.
+
+The names people invoke when they talk about this level of ambition —
+Elon, Demis, Sam, Andrej — they are all right about where this goes.
+The difference is I can also write the code,
+connect the agent to everything,
+and put real money on the line to prove it works.
 
 ---
 
 ## What I do every day
 Morning:    Read one new paper or arxiv preprint
             Run aonxi-outreach (20+ new emails sent)
+            Note what the agent got wrong
 Afternoon:  Review replies, close clients
-            aonxi-sequence (follow-up emails)
+            Run aonxi-sequence (follow-up sequences)
+            Log outcomes as ASM anchors
 Evening:    Build or improve one thing
             Push to GitHub
-Weekly:     Write up what I learned
-            Update paper outline with new data
-Always:     Connect every paper I read to a
-            real experiment I can run on
-            production data
-
-I am not reading papers to understand them.
-I am reading papers to deploy them.
-The production system is the lab.
-The ARR is the p-value.
+            Connect what I built to a paper I read
+Weekly:     Write up what the data showed
+            Update paper outline with new numbers
+            Ask: what would falsify this hypothesis?
+Always:     Every paper connects to a live experiment
+            Every experiment produces real outcome data
+            Every outcome improves the next decision
 
 ---
 
-## Papers on my desk right now
+## Papers on my desk
 
 | Paper | Why I am reading it |
 |-------|---------------------|
@@ -266,21 +362,76 @@ The ARR is the p-value.
 | Constitutional AI — Anthropic, 2022 | HAGI loop design, preference learning |
 | LoRA — Microsoft, 2021 | Fine-tuning persona models on production data |
 | ReAct — Google, 2022 | Reasoning + acting loops in live agent |
-| Toolformer — Meta, 2023 | Tool use architecture for 30+ source agent |
+| Toolformer — Meta, 2023 | Tool use for 30+ source discovery waterfall |
 | Sleeper Agents — Anthropic, 2024 | Alignment in long-running production agents |
-| PRM — OpenAI | Process reward in multi-step outreach decisions |
+| PRM — OpenAI | Process reward in multi-step scoring decisions |
+| RewardFlow | Causal attribution across campaign trajectories |
 
 ---
 
-## Stack
-Agent core:    Python · Anthropic API (Claude Haiku/Sonnet)
-               Grok API · dual-LLM scoring
-Discovery:     Apollo · Exa · Hunter · 30+ source waterfall
-Memory:        SQLite ASM anchor bank · Airtable sync
-Delivery:      Gmail SMTP · SendGrid
-Research:      PyTorch · vLLM · Qdrant (vector retrieval)
-Infra:         Kubernetes · Temporal.io (durable execution)
-Observability: Custom revenue attribution dashboard
+## Production stack
+Agent core:     Python · Anthropic API (Claude Haiku/Sonnet)
+                Grok API · dual-LLM weighted scoring
+Discovery:      Apollo · Exa · Hunter · 30+ source waterfall
+Memory:         SQLite ASM anchor bank · structured causal retrieval
+Delivery:       Gmail SMTP · SendGrid · IMAP reply detection
+Orchestration:  Temporal.io · durable execution · kill switches
+Infra:          Kubernetes · spot GPUs · Rust + Tokio core
+Data:           Kafka/Redpanda · ClickHouse · 100M+ B2B records
+Research:       PyTorch · vLLM · Qdrant · LoRA fine-tuning
+Observability:  Custom revenue attribution dashboard · OpenTelemetry
+HITL cockpit:   React · WebSockets · Y/N/feedback nodes
+
+---
+
+## Experience that proves I can ship this
+
+**Aonxi — CTO** (Sep 2025 – Present · Santa Monica)
+Built the autonomous revenue agent from scratch.
+$650K ARR in 5 months. $0 raised. Zero paid acquisition.
+120+ revenue-trained persona models as live autonomous workflows.
+76 enterprise-grade real-time intent filters.
+100M+ continuously enriched B2B records.
+Native HITL nodes: veto, approve, override, feedback.
+Every architecture decision tested on real production outcomes.
+
+**Lotus Interworks — VP/Director Revenue Engineering** (2023–2025 · LA)
+ARR: $25K → $811K in 12 months (800%+ growth).
+Close rate: 10% → 34%. Sales cycle: weeks → 5 days.
+Pipeline throughput: 10x. Qualified pipeline exceeded $100M.
+Built PilotOS (Results-as-a-Service) treating revenue
+as a constrained learning control system.
+Co-designed ECOSYSTEM framework with Dr. Gopinath (Stanford PhD)
+and Ray Stata (Founder, Analog Devices).
+
+**Meta — ML Engineer, Ads** (2017–2023 · 6 years · Menlo Park)
+CTR/CVR prediction, ranking, and bidding at billions of daily inferences.
+Data augmentation, synthetic data, knowledge distillation.
+Early production PyTorch eager-mode adopter —
+shipped one of the first ad-ranking models on dynamic graphs
+when the industry was still on static TensorFlow.
+
+**Apple — Research Scientist ML (Intern)** (2017 · Cupertino)
+Reduced Face ID false positives by 15% on edge cases.
+Built sim-to-real GAN refiner for synthetic training.
+Published: machinelearning.apple.com/research/gan (arXiv 1612.07828).
+
+**AutoScholar Pro — Founder** (Age 10–20 · India)
+Self-taught on a second-hand PC. No internet.
+QBASIC books from the library. 12-hour daily sprints.
+Built an automated university and scholarship platform
+serving 5,000 students, unlocking $2M+ in scholarships.
+90% acceptance prediction accuracy. Exited for $100K.
+First line of code written at age 10.
+Have not stopped shipping since.
+
+---
+
+## Education
+
+Northwestern University — Kellogg School of Management, MBA (Marketing)
+Delhi University — B.Sc. Mathematics
+Frontier AI Open School — Andrej Karpathy directed Deep Learning & LLM Systems
 
 ---
 
@@ -288,9 +439,10 @@ Observability: Custom revenue attribution dashboard
 
 | Repo | What it is | Status |
 |------|-----------|--------|
-| [asm-replication](https://github.com/originaonxi/asm-replication) | Multi-session ASM. NeurIPS 2026. Real data. | Active |
+| [asm-replication](https://github.com/originaonxi/asm-replication) | Multi-session ASM. NeurIPS 2026. Real revenue data. | Active |
+| [moe-efficiency-study](https://github.com/originaonxi/moe-efficiency-study) | MoE routing paper. Original metric. Published. | Published |
 | [information-architecture-thesis](https://github.com/originaonxi/information-architecture-thesis) | Long-horizon agent state management | Published |
-| [tdad-replication](https://github.com/originaonxi/tdad-replication) | TDAD paper replication | Published |
+| [tdad-replication](https://github.com/originaonxi/tdad-replication) | Trajectory-Driven Agent Design replication | Published |
 | [prm-replication](https://github.com/originaonxi/prm-replication) | Process Reward Model replication | Published |
 | [rewardflow-replication](https://github.com/originaonxi/rewardflow-replication) | RewardFlow replication | Published |
 | [blueprint-trust-engine](https://github.com/originaonxi/blueprint-trust-engine) | Trust scoring for agent decisions | Published |
@@ -304,27 +456,34 @@ Observability: Custom revenue attribution dashboard
 | Metric | Number |
 |--------|--------|
 | ARR | $650,458 |
-| Months to get there | 5 |
+| Months to build it | 5 |
 | Funding raised | $0 |
-| Total leads processed | 2,452 |
+| Leads processed | 2,452 |
 | Meetings booked | 250 |
 | Sales closed | 42 |
 | ASM beats raw scoring | 83% of prospects |
-| Papers replicated | 4 + 1 thesis |
-| NeurIPS 2026 submissions | 1 (in progress) |
-| Papers read this month | ongoing |
+| Lines in production | 12M+ |
+| Years shipping F500 | 10 |
+| Age I wrote first line of code | 10 |
+| Papers replicated | 5 + 1 original |
+| NeurIPS 2026 submission | 1 in progress |
 
 ---
 
 ## If you are building at the frontier
 
 I want to talk to people working on:
-- Long-horizon agent reliability
-- Production evals that use real outcomes
+- Long-horizon agent reliability in production
 - Memory architectures beyond context windows
 - RLHF from live human-in-the-loop systems
+- Production evals where real outcomes are the metric
 - AGI that operates in bounded real-world domains
+- Agents that are P&L accountable, not just task-complete
+
+Frontier labs building AGI — I am your hire.
+I can see where this goes and I can build the path to get there.
+I have the production system, the research program,
+the engineering depth, and the evidence.
 
 origin@aonxi.com · aonxi.today
-
-Santa Monica, CA · Shipping every day
+Santa Monica, CA · Shipping every day since age 10
