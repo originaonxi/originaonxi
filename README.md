@@ -1,13 +1,13 @@
 # Sam Anmol (Anmol Chaudhary)
 
 **ML + AI Agent Engineer · Ex-Meta Ads ML · Ex-Apple Face ID · CTO @ Aonxi**
-Santa Monica, CA · origin@aonxi.com · aonxi.today · [linkedin.com/in/samisanmol](https://linkedin.com/in/samisanmol)
+Santa Monica, CA · origin@aonxi.com · aonxi.com · [linkedin.com/in/samisanmol](https://linkedin.com/in/samisanmol)
 
 ---
 
-| 12M+ | 10 yrs | $650K ARR | 800% |
+| 12M+ | 10 yrs | $650K ARR | 1000% |
 |------|--------|-----------|------|
-| Lines in production | F500 daily shipping | Aonxi in 5 months | ARR growth (2023) |
+| Lines in production | F500 daily shipping | Aonxi in 5 months | ARR growth (2024) |
 
 ---
 
@@ -97,7 +97,7 @@ I am both — and I can connect everything to everything.
 At Meta I shipped ranking and bidding models at billions of daily inferences.
 At Apple I reduced Face ID false positives by 15% and published the GAN refiner
 that made synthetic training viable (machinelearning.apple.com/research/gan).
-At Lotus Interworks I took ARR from $25K to $811K in 12 months (800% growth),
+At Lotus Interworks I took ARR from $25K to $4M in 9 months,
 cut the sales cycle from weeks to under 5 days, and lifted close rate from 10% to 34%.
 At Aonxi I built the agent from scratch. Alone. $0 raised. $650K ARR in 5 months.
 
@@ -396,7 +396,7 @@ Native HITL nodes: veto, approve, override, feedback.
 Every architecture decision tested on real production outcomes.
 
 **Lotus Interworks — VP/Director Revenue Engineering** (2023–2025 · LA)
-ARR: $25K → $811K in 12 months (800%+ growth).
+ARR: $25K → $4M in 9 months.
 Close rate: 10% → 34%. Sales cycle: weeks → 5 days.
 Pipeline throughput: 10x. Qualified pipeline exceeded $100M.
 Built PilotOS (Results-as-a-Service) treating revenue
