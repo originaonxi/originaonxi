@@ -5,7 +5,7 @@ Santa Monica, CA · origin@aonxi.com · aonxi.com · [linkedin.com/in/samisanmol
 
 ---
 
-| 12M+ | 10 yrs | $650K ARR | 1000% |
+| 12M+ | 10 yrs | $800K ARR | 1000%+ |
 |------|--------|-----------|------|
 | Lines in production | F500 daily shipping | Aonxi in 5 months | ARR growth (2024) |
 
