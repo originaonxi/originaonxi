@@ -1,7 +1,7 @@
 # Sam Anmol (Anmol Chaudhary)
 
 **ML + AI Agent Engineer · Ex-Meta Ads ML · Ex-Apple Face ID · CTO @ Aonxi**
-Santa Monica, CA · origin@aonxi.com · aonxi.com · [linkedin.com/in/samisanmol](https://linkedin.com/in/samisanmol)
+Santa Monica, CA · origin@aonxi.com · **[originaonxi.github.io](https://originaonxi.github.io)** · [linkedin.com/in/samisanmol](https://linkedin.com/in/samisanmol)
 
 ---
 
