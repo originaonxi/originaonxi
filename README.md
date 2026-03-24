@@ -160,21 +160,30 @@ Losers terminate with zero drama.
 
 ## PKM — Persuasion Knowledge Model
 
-Added March 24, 2026. Live across all 3 agents.
+Added March 24, 2026. Live across all agents. The shared perception layer.
 
-Defense profiling built into every outreach agent.
-Profiles psychological defenses before writing a single word.
+**[PKM Analyzer](https://github.com/originaonxi/pkm-analyzer)** — [try it live](https://originaonxi.github.io/pkm-analyzer/) (free, no key needed).
 
-Four modes: MOTIVE_INFERENCE / TACTIC_RECOGNITION / OVERLOAD_AVOIDANCE / SOCIAL_PROOF_SKEPTICISM
+Every person who receives an outreach message already has a defense system running. Friestad & Wright documented this in 1994. 30 years of research. The sales industry ignored it. We built it into both agents.
 
-Each mode has:
-- A bypass strategy (PURE_DATA / SIGNAL_HOOK / CREDIBILITY_FIRST)
-- Forbidden phrases injected as BANNED WORDS into the Claude system prompt
-- OVERLOAD_AVOIDANCE gets a hard 60-word cap
+**10 defense modes** detected from any digital profile:
 
-An ex-Gong VP who angel invests gets MOTIVE_INFERENCE profile.
-A busy SMB owner gets OVERLOAD_AVOIDANCE.
-Same traction. Completely different message.
+| Mode | Who | Bypass |
+|------|-----|--------|
+| MOTIVE_INFERENCE | VCs, ex-GTM execs | PURE_DATA — open with numbers |
+| TACTIC_RECOGNITION | Repeat founders | SIGNAL_HOOK — prove real research |
+| OVERLOAD_AVOIDANCE | Busy SMB operators | ULTRA_SHORT — under 60 words |
+| SOCIAL_PROOF_SKEPTICISM | CTOs, engineers | CREDIBILITY_FIRST — verifiable proof |
+| AUTHORITY_DEFERENCE | Directors, managers | PEER_PROOF — ammo to forward up |
+| LOSS_AVERSION | Risk-aware buyers | COST_OF_INACTION — frame the loss |
+| IDENTITY_THREAT | Bootstrapped founders | AMPLIFICATION — they're still in charge |
+| TIMING_SKEPTICISM | "Not ready" buyers | TRIGGER_EVENT — why now matters |
+| COMPLEXITY_FEAR | Non-technical owners | SIMPLICITY_PROOF — one action only |
+| PRICE_ANCHORING | Budget buyers | ROI_INVERSION — cost per outcome |
+
+Before either agent writes a word, it profiles the defense mode, bans the phrases that trigger it, and writes with the bypass strategy calibrated to that person. All profiles cached in Airtable — shared across AROS and ARIA. Analyzed once, used everywhere.
+
+Based on [Friestad & Wright (1994)](https://doi.org/10.1086/209380) — $0.001 per profile.
 
 ---
 
@@ -482,8 +491,9 @@ Frontier AI Open School - Andrej Karpathy directed Deep Learning & LLM Systems
 | [rewardflow-replication](https://github.com/originaonxi/rewardflow-replication) | RewardFlow replication | Published |
 | [blueprint-trust-engine](https://github.com/originaonxi/blueprint-trust-engine) | Trust scoring for agent decisions | Published |
 | [agi-possible-agent](https://github.com/originaonxi/agi-possible-agent) | AGI architecture experiments | Active |
-| [aros-agent](https://github.com/originaonxi/aros-agent) | Customer outreach agent + PKM | Live |
-| [ARIA](https://github.com/originaonxi/ARIA) | Investor outreach agent + PKM | Live |
+| [aros-agent](https://github.com/originaonxi/aros-agent) | Revenue intelligence core + PKM | Live |
+| [ARIA](https://github.com/originaonxi/ARIA) | Capital intelligence core + PKM | Live |
+| [pkm-analyzer](https://github.com/originaonxi/pkm-analyzer) | Defense profiling — [try live](https://originaonxi.github.io/pkm-analyzer/) | Live |
 | [aonxi-outreach-agent](https://github.com/originaonxi/aonxi-outreach-agent) | Hyper-personalized outreach + PKM | Live |
 | [alignment-auditor](https://github.com/originaonxi/alignment-auditor) | AI alignment research | Live |
 | [frontier-agi-journey](https://github.com/originaonxi/frontier-agi-journey) | Daily research log | Live |
