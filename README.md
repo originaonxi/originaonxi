@@ -183,6 +183,8 @@ Every person who receives an outreach message already has a defense system runni
 
 Before either agent writes a word, it profiles the defense mode, bans the phrases that trigger it, and writes with the bypass strategy calibrated to that person. All profiles cached in Airtable — shared across AROS and ARIA. Analyzed once, used everywhere.
 
+**Self-improving:** every thumbs up/down and mode correction feeds back into the classification prompt. The system literally rewrites its own instructions based on what real users tell it. This is RLHF running live in production — not on a training cluster, in the product, every day. The more people use it, the more accurate it gets.
+
 Based on [Friestad & Wright (1994)](https://doi.org/10.1086/209380) — $0.001 per profile.
 
 ---
