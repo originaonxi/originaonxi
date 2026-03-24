@@ -5,9 +5,9 @@ Santa Monica, CA · origin@aonxi.com · aonxi.com · [linkedin.com/in/samisanmol
 
 ---
 
-| 12M+ | 10 yrs | $800K ARR | 1000%+ |
-|------|--------|-----------|------|
-| Lines in production | F500 daily shipping | Aonxi in 5 months | ARR growth (2024) |
+| $199K collected | $8K peak day | $2.9M velocity | $0.50/day | $0 raised |
+|----------------|-------------|----------------|-----------|-----------|
+| Gross volume | Single day March 2026 | That day annualized | Cost to run AROS | Bootstrapped |
 
 ---
 
@@ -23,7 +23,8 @@ Santa Monica, CA · origin@aonxi.com · aonxi.com · [linkedin.com/in/samisanmol
 > Every dollar it spends must return more dollars than it cost.
 >
 > That is not a demo. That agent exists. It is running right now.
-> It generated $650K ARR in 5 months. Bootstrapped. Zero paid acquisition.
+> $199K gross volume collected. $8,000 peak single day. $2.9M ARR velocity.
+> Oct 2025 to Mar 2026. Bootstrapped. Zero paid acquisition.
 >
 > I am the person who built it.
 > And I am just getting started.
@@ -99,7 +100,7 @@ At Apple I reduced Face ID false positives by 15% and published the GAN refiner
 that made synthetic training viable (machinelearning.apple.com/research/gan).
 At Lotus Interworks I took ARR from $25K to $4M in 9 months,
 cut the sales cycle from weeks to under 5 days, and lifted close rate from 10% to 34%.
-At Aonxi I built the agent from scratch. Alone. $0 raised. $650K ARR in 5 months.
+At Aonxi I built the agent from scratch. Alone. $0 raised. $199K collected. $8K peak day. $2.9M ARR velocity.
 
 The combination nobody else runs at scale:
 **Deep ML research + agent systems engineering + production revenue data**
@@ -154,6 +155,40 @@ This means I can pull the plug on anything, instantly, at any layer.
 Winners auto-replicate and compound.
 Losers terminate with zero drama.
 **Better data beats better algorithms.** I have lived this truth at Meta scale.
+
+---
+
+## PKM — Persuasion Knowledge Model
+
+Added March 24, 2026. Live across all 3 agents.
+
+Defense profiling built into every outreach agent.
+Profiles psychological defenses before writing a single word.
+
+Four modes: MOTIVE_INFERENCE / TACTIC_RECOGNITION / OVERLOAD_AVOIDANCE / SOCIAL_PROOF_SKEPTICISM
+
+Each mode has:
+- A bypass strategy (PURE_DATA / SIGNAL_HOOK / CREDIBILITY_FIRST)
+- Forbidden phrases injected as BANNED WORDS into the Claude system prompt
+- OVERLOAD_AVOIDANCE gets a hard 60-word cap
+
+An ex-Gong VP who angel invests gets MOTIVE_INFERENCE profile.
+A busy SMB owner gets OVERLOAD_AVOIDANCE.
+Same traction. Completely different message.
+
+---
+
+## Why I paused AROS at $8K/day
+
+Customers were churning in 30 days.
+
+The agent was finding the right people.
+The closes were real.
+But the message that got them in was not the message that kept them.
+
+Scaling a leaky bucket makes the revenue number look better and the business worse.
+
+So I stopped. Diagnosed the problem. Built PKM. Now turning it back on.
 
 ---
 
@@ -303,7 +338,7 @@ Human-in-the-loop as a learning signal (HAGI)
 Not a safety patch. A continuous preference signal.
 Every Y/N approval is a labeled training example.
 That is RLHF running live in production, every day.
-Production data as ground truth (Aonxi $650K ARR)
+Production data as ground truth (Aonxi $199K collected, $2.9M velocity)
 Benchmarks can be gamed.
 Revenue cannot.
 2,452 leads. 250 meetings. 42 sales. Real money.
@@ -388,7 +423,7 @@ HITL cockpit:   React · WebSockets · Y/N/feedback nodes
 
 **Aonxi - CTO** (Sep 2025 – Present · Santa Monica)
 Built the autonomous revenue agent from scratch.
-$650K ARR in 5 months. $0 raised. Zero paid acquisition.
+$199K gross volume. $8K peak day. $2.9M ARR velocity. $0 raised. Zero paid acquisition.
 120+ revenue-trained persona models as live autonomous workflows.
 76 enterprise-grade real-time intent filters.
 100M+ continuously enriched B2B records.
@@ -447,24 +482,29 @@ Frontier AI Open School - Andrej Karpathy directed Deep Learning & LLM Systems
 | [rewardflow-replication](https://github.com/originaonxi/rewardflow-replication) | RewardFlow replication | Published |
 | [blueprint-trust-engine](https://github.com/originaonxi/blueprint-trust-engine) | Trust scoring for agent decisions | Published |
 | [agi-possible-agent](https://github.com/originaonxi/agi-possible-agent) | AGI architecture experiments | Active |
-| aonxi-outreach-agent | Production autonomous revenue agent | Private |
+| [aros-agent](https://github.com/originaonxi/aros-agent) | Customer outreach agent + PKM | Live |
+| [ARIA](https://github.com/originaonxi/ARIA) | Investor outreach agent + PKM | Live |
+| [aonxi-outreach-agent](https://github.com/originaonxi/aonxi-outreach-agent) | Hyper-personalized outreach + PKM | Live |
+| [alignment-auditor](https://github.com/originaonxi/alignment-auditor) | AI alignment research | Live |
+| [frontier-agi-journey](https://github.com/originaonxi/frontier-agi-journey) | Daily research log | Live |
 
 ---
 
-## Numbers
+## The honest numbers
 
 | Metric | Number |
 |--------|--------|
-| ARR | $650,458 |
-| Months to build it | 5 |
+| Gross volume collected | $199K |
+| Peak single day | $8,000 (March 2026) |
+| ARR velocity (that day annualized) | $2.9M |
+| Cost per day to run agent | $0.50 |
 | Funding raised | $0 |
-| Leads processed | 2,452 |
-| Meetings booked | 250 |
-| Sales closed | 42 |
-| ASM beats raw scoring | 83% of prospects |
+| Raising | $250K pre-seed |
+| Agents in production | 3 |
+| Timeframe | Oct 2025 — Mar 2026 |
+| PKM layer | Live across all 3 agents |
 | Lines in production | 12M+ |
 | Years shipping F500 | 10 |
-| Age I wrote first line of code | 10 |
 | Papers replicated | 5 + 1 original |
 | NeurIPS 2026 submission | 1 in progress |
 
