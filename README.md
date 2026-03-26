@@ -135,5 +135,5 @@ I want to talk to people working on:
 - AGI that operates in bounded real-world domains
 - Agents that are P&L accountable, not just task-complete
 
-Sam Anmol
+Sam Anmol ·
 Santa Monica, CA · Shipping every day since age 10
