@@ -34,16 +34,12 @@ The production system is the laboratory.
 
 ## What makes this possible
 
-I am not a researcher who builds demos.
-I am not a founder who hires engineers.
-I am both - and I can connect everything to everything.
-
 At Meta I shipped ranking and bidding models at billions of daily inferences.
 At Apple I reduced Face ID false positives by 15% and published the GAN refiner
 that made synthetic training viable (machinelearning.apple.com/research/gan).
 At Lotus Interworks I took ARR from $25K to $4M in 9 months,
 cut the sales cycle from weeks to under 5 days, and lifted close rate from 10% to 34%.
-At Aonxi I built the agent from scratch. Alone. $0 raised. $199K collected. $8K peak day. $2.9M ARR velocity in 60 days of launch. 
+At Aonxi I built the agent from scratch. Alone. $0 raised. $199K collected. $8K peak day. $2.9M ARR velocity in 60 days of launch fully autonomous money making agent. 
 AI in Education Now 
 
 The combination nobody else runs at scale:
