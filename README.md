@@ -1,6 +1,6 @@
 # Sam Anmol (Anmol Chaudhary)
 
-**ML + AI Agent Engineer · Ex-Meta Ads ML · Ex-Apple Face ID · 
+ML + AI Agent Engineer · Ex-Meta Ads ML · Ex-Apple Face ID · 
 ---
 
 > **AGI agents are not chatbots. They are not copilots.**
