@@ -22,7 +22,7 @@ Most people talk about AGI in the abstract.
 I am building it in the concrete - one bounded domain at a time.
 
 The domain I chose is revenue and capital. GTMe (AI GTM Engineer) 
-Not because it is easy. Because it has the clearest eval in existence:
+not because it is easy. Because it has the clearest eval in existence:
 
 **Did the meeting happen? Did the deal close? Did money land in the bank?**
 
