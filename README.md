@@ -40,7 +40,7 @@ that made synthetic training viable (machinelearning.apple.com/research/gan).
 At Lotus Interworks I took ARR from $25K to $4M in 9 months,
 cut the sales cycle from weeks to under 5 days, and lifted close rate from 10% to 34%.
 At Aonxi I built the agent from scratch. Alone. $0 raised. $199K collected. $8K peak day. $2.9M ARR velocity in 60 days of launch fully autonomous money making agent. 
-Creating AGI Agents in Education Now.  
+Creating AGI agents in education/coaching now.  
 
 The combination nobody else runs at scale:
 **Deep ML research + agent systems engineering + production revenue data**
