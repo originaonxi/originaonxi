@@ -100,24 +100,101 @@ Every paper I read gets deployed.
 Every architecture I replicate gets tested on production revenue data.
 Here is what I am working from and why each one matters for AGI:
 
+## Super Brain — The Connective Tissue
+
+50+ repos. All connected. All learning from each other.
+
+**[super-brain](https://github.com/originaonxi/super-brain)** — The living memory + orchestrator connecting every repo, agent, and engine into one unified intelligence layer. V2 now live.
+
+- Complete registry of all 50+ repos with dependency graph
+- Daily health checks, pattern detection, improvement suggestions
+- Cross-repo learning: what AROS learns, ARIA inherits immediately
+- Hybrid memory: Mem0 cloud + MemoryMesh local SQLite
+- Orchestrator scans at 5am daily — reports without human input
+
+**The compound loop:**
+Research improves agents → Agents generate production data → Data improves research → Brain detects patterns → Every repo gets smarter → Repeat forever.
+
+---
+
 ## All repos
+
+**Core (shared infrastructure)**
 
 | Repo | What it is | Status |
 |------|-----------|--------|
-| [asm-replication](https://github.com/originaonxi/asm-replication) | Multi-session ASM. NeurIPS 2026. Real revenue data. | Active |
+| [super-brain](https://github.com/originaonxi/super-brain) | Living memory + orchestrator — connects all 50+ repos | Live |
+| [aonxi-router](https://github.com/originaonxi/aonxi-router) | Intelligence routing — best model for every task | Live |
+| [aonxi-safeguard](https://github.com/originaonxi/aonxi-safeguard) | Behavioral integrity — 0.42% breaks vs 99.6% earns | Live |
+| [aonxi-memcollab](https://github.com/originaonxi/aonxi-memcollab) | Cross-agent shared memory — every AROS win teaches ARIA | Live |
+| [aonxi-claw](https://github.com/originaonxi/aonxi-claw) | Living orchestrator — all agents self-optimize | Live |
+| [aonxi-pkm](https://github.com/originaonxi/aonxi-pkm) | PKM content flywheel — feeds AROS, ARIA, Outreach | Live |
+| [memorymesh](https://github.com/originaonxi/memorymesh) | Shared memory for all AI tools. pip install memorymesh. | Live |
+
+**Revenue & Capital**
+
+| Repo | What it is | Status |
+|------|-----------|--------|
+| [aros-agent](https://github.com/originaonxi/aros-agent) | Autonomous Revenue Operating System — finds new revenue | Live |
+| [ARIA](https://github.com/originaonxi/ARIA) | Autonomous Relationship Intelligence — finds capital | Live |
+| [aonxi-outreach-agent](https://github.com/originaonxi/aonxi-outreach-agent) | Self-correcting outreach v8 — $200K proved | Live |
+| [pkm-analyzer](https://github.com/originaonxi/pkm-analyzer) | Defense profiling — [try live](https://originaonxi.github.io/pkm-analyzer/) | Live |
+
+**GTM Engines**
+
+| Repo | What it is | Status |
+|------|-----------|--------|
+| [nova-gtm](https://github.com/originaonxi/nova-gtm) | 17-agent progressive autonomy GTM. $2M ARR/60 days. | Live |
+| [simplenursing-gtm-engine](https://github.com/originaonxi/simplenursing-gtm-engine) | 4.38M nursing student TAM engine | Live |
+| [techm-intel](https://github.com/originaonxi/techm-intel) | F500 account intelligence — C-suite mapping, real-time | Live |
+| [attentive-gtm-agent](https://github.com/originaonxi/attentive-gtm-agent) | AI outbound for Attentive.ai — 5 agents, 5 verticals | Live |
+| [bre-gtm-engine](https://github.com/originaonxi/bre-gtm-engine) | GTM for BRE Group — £50B green building market | Live |
+| [myhq-gtm-engine](https://github.com/originaonxi/myhq-gtm-engine) | India workspace sales — 25+ demand signals, 5 channels | Live |
+
+**Daily Autonomous Fleet (cron)**
+
+| Repo | Schedule | What it delivers |
+|------|----------|-----------------|
+| [news-briefing-agent](https://github.com/originaonxi/news-briefing-agent) | 6:30am PST | Bias-aware AI + startup news |
+| [echo](https://github.com/originaonxi/echo) | 7:05am PST | Curated AI insights |
+| [agi-possible-agent](https://github.com/originaonxi/agi-possible-agent) | 8:00am PST | 5 most AGI-relevant ML papers |
+| [space-wonder-agent](https://github.com/originaonxi/space-wonder-agent) | Daily | Space/astronomy intelligence |
+| [stock-analyst-agent](https://github.com/originaonxi/stock-analyst-agent) | Daily | Market intelligence |
+
+**Research → Production (NeurIPS 2026 pipeline)**
+
+| Repo | What it is | Status |
+|------|-----------|--------|
+| [asm-replication](https://github.com/originaonxi/asm-replication) | Multi-session ASM. NeurIPS 2026. Real revenue data ($199K). | Active |
 | [moe-efficiency-study](https://github.com/originaonxi/moe-efficiency-study) | MoE routing paper. Original metric. Published. | Published |
 | [information-architecture-thesis](https://github.com/originaonxi/information-architecture-thesis) | Long-horizon agent state management | Published |
 | [tdad-replication](https://github.com/originaonxi/tdad-replication) | Trajectory-Driven Agent Design replication | Published |
-| [prm-replication](https://github.com/originaonxi/prm-replication) | Process Reward Model replication | Published |
-| [rewardflow-replication](https://github.com/originaonxi/rewardflow-replication) | RewardFlow replication | Published |
-| [blueprint-trust-engine](https://github.com/originaonxi/blueprint-trust-engine) | Trust scoring for agent decisions | Published |
-| [agi-possible-agent](https://github.com/originaonxi/agi-possible-agent) | AGI architecture experiments | Active |
-| [aros-agent](https://github.com/originaonxi/aros-agent) | Revenue intelligence core + PKM | Live |
-| [ARIA](https://github.com/originaonxi/ARIA) | Capital intelligence core + PKM | Live |
-| [pkm-analyzer](https://github.com/originaonxi/pkm-analyzer) | Defense profiling — [try live](https://originaonxi.github.io/pkm-analyzer/) | Live |
-| [aonxi-outreach-agent](https://github.com/originaonxi/aonxi-outreach-agent) | Hyper-personalized outreach + PKM | Live |
-| [alignment-auditor](https://github.com/originaonxi/alignment-auditor) | AI alignment research | Live |
-| [frontier-agi-journey](https://github.com/originaonxi/frontier-agi-journey) | Daily research log | Live |
+| [prm-replication](https://github.com/originaonxi/prm-replication) | AI grades its own reasoning — proved | Published |
+| [rewardflow-replication](https://github.com/originaonxi/rewardflow-replication) | Multi-step reward propagation | Published |
+| [reward-model-blindness](https://github.com/originaonxi/reward-model-blindness) | RLHF rates for wrong reasons — and a fix | Published |
+| [llm-calibration-study](https://github.com/originaonxi/llm-calibration-study) | LLM confidence on B2B email quality | Published |
+| [llm-evals-arena](https://github.com/originaonxi/llm-evals-arena) | Production eval framework for B2B reasoning | Published |
+| [alignment-auditor](https://github.com/originaonxi/alignment-auditor) | Do LLMs fake alignment under observation? | Live |
+| [glassbox-agents](https://github.com/originaonxi/glassbox-agents) | Found 2 failure modes Anthropic didn't name | Live |
+| [realtime-reasoning-engine](https://github.com/originaonxi/realtime-reasoning-engine) | Making AI reasoning transparent and auditable | Live |
+| [attention-from-scratch](https://github.com/originaonxi/attention-from-scratch) | Transformer attention in pure PyTorch — every matrix explicit | Published |
+| [frontier-agi-journey](https://github.com/originaonxi/frontier-agi-journey) | 365-day daily research log — 5 papers/day | Live |
+
+**QA & Trust**
+
+| Repo | What it is | Status |
+|------|-----------|--------|
+| [colibri-qa-agent](https://github.com/originaonxi/colibri-qa-agent) | AI QA replacing QA team at Colibri Group. 24/7. | Live |
+| [blueprint-trust-engine](https://github.com/originaonxi/blueprint-trust-engine) | Trust-scored QA routing for Attentive.ai | Live |
+
+**Products**
+
+| Repo | What it is | Status |
+|------|-----------|--------|
+| [job-hunt-agent](https://github.com/originaonxi/job-hunt-agent) | 5-agent pipeline — 12 CTO emails in 34 min, $0.04 cost | Live |
+| [b2b-funding-scanner](https://github.com/originaonxi/b2b-funding-scanner) | Real-time seed funding intelligence, 30 min cycle | Live |
+| [ai-crypto-exchange](https://github.com/originaonxi/ai-crypto-exchange) | Open-source exchange with AI surveillance + circuit breakers | Live |
+| [system-design-mastery](https://github.com/originaonxi/system-design-mastery) | 200-lesson system design course, cron delivery | Live |
 
 ---
 
